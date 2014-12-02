@@ -1,6 +1,7 @@
 Options +FollowSymLinks
 RewriteEngine on
 RewriteRule ^bsletten$ http://bosatsu.net/foaf/brian.rdf [R=303,L]
+RewriteRule ^pslusarz$ http://bosatsu.net/foaf/paul.rdf [R=303,L]
 RewriteRule ^asinesio$ http://asinesio.github.io/foaf.rdf [R=303,L]
 RewriteRule ^kerfors$ https://kerfors.blogspot.com [R=301,L]
 RewriteRule ^prototypo$ http://3roundstones.com/dave/me.ttl [R=303,L]
@@ -20,3 +21,5 @@ RewriteRule ^manu$ https://manu.sporny.org/about/#manu [NE,R=303,L]
 RewriteRule ^aidan$ http://aidan.droppages.com/ [R=302,L]
 RewriteRule ^taltmann$ http://52pies.blogspot.com/ [R=302,L]
 RewriteRule ^nxg$ http://nxg.me.uk/norman/ [R=303,L]
+RewriteRule ^daniel$ http://bosatsu.net/foaf/daniel.rdf [R=303,L]
+RewriteRule ^cat$ http://bosatsu.net/foaf/catherine.rdf [R=303,L]
