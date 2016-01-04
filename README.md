@@ -54,7 +54,7 @@ by following these steps:
    (a subset of) your permanent identifiers. For an example, 
    see [rdw/README.md](rdw/README.md)
 4. Commit your changes and submit a 
-   [pull request](https://github.com/perma-id/w3id.org/pulls).
+   [pull request](https://github.com/perma-id/w3id.org/pulls). Please squash your pull request into a single commit.
 5. w3id.org administrators will review your pull request and merge it if 
    everything looks correct. Once the pull request is merged, the changes go
    live immediately.
